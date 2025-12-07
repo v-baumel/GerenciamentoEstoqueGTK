@@ -1,0 +1,101 @@
+Tipo;Marca;Modelo;Descrição;Novo;Nº Série;Nº Patrimônio Poli-UPE;Alocação;Status
+Monitor;LG;24BL550;Reitoria;Falso;369949434879871;6436;Reitoria;Manutenção
+Monitor;LG;DC3E-S;Depto-Admin;Falso;180374896017631;4483;Depto-Admin;Ativo
+Tablet;LG;Elitebook 840;Reitoria;Verdadeiro;977959408137403;6010;Reitoria;Inativo
+Monitor;AOC;24BL550;Reitoria;Verdadeiro;816131458430584;3104;Lab-Informática;Manutenção
+Tablet;AOC;Inspiron 15;Lab-Informática;Falso;589429037795132;3887;Reitoria;Manutenção
+Tablet;Lenovo;DC3E-S;Depto-Admin;Verdadeiro;660620094399161;5293;Depto-Admin;Inativo
+Tablet;Lenovo;Inspiron 15;Lab-Informática;Falso;912388905153402;6306;Lab-Informática;Manutenção
+Monitor;LG;Elitebook 840;Reitoria;Falso;503580849728752;8465;Reitoria;Manutenção
+Notebook;Lenovo;Inspiron 15;Depto-Admin;Falso;763794429183167;2268;Lab-Informática;Inativo
+Monitor;Lenovo;Elitebook 840;Depto-Admin;Falso;631019816463464;3370;Reitoria;Ativo
+Tablet;LG;DC3E-S;Reitoria;Falso;126311096767976;8383;Lab-Informática;Manutenção
+Notebook;Samsung;DC3E-S;Depto-Admin;Falso;792225641595787;2732;Depto-Admin;Manutenção
+Tablet;Lenovo;DC3E-S;Reitoria;Verdadeiro;326368099673186;1388;Lab-Informática;Inativo
+Notebook;Samsung;24BL550;Reitoria;Falso;392895361260161;4167;Lab-Informática;Inativo
+Monitor;AOC;24BL550;Depto-Admin;Verdadeiro;784887722529293;9284;Lab-Informática;Ativo
+Notebook;DELL;24BL550;Reitoria;Falso;512331613250680;3961;Reitoria;Ativo
+Monitor;AOC;Elitebook 840;Depto-Admin;Falso;311581916213988;6005;Lab-Informática;Manutenção
+Monitor;DELL;24BL550;Depto-Admin;Falso;723365144209428;7405;Depto-Admin;Manutenção
+Monitor;AOC;DC3E-S;Lab-Informática;Falso;129095821829720;8818;Depto-Admin;Manutenção
+Monitor;Lenovo;Elitebook 840;Lab-Informática;Falso;946822353129110;1521;Lab-Informática;Manutenção
+Notebook;AOC;24BL550;Depto-Admin;Falso;580803299261226;6293;Lab-Informática;Inativo
+Tablet;LG;24BL550;Lab-Informática;Verdadeiro;527886162024487;2939;Depto-Admin;Ativo
+Monitor;DELL;Inspiron 15;Reitoria;Verdadeiro;743030204184677;2797;Depto-Admin;Inativo
+Tablet;DELL;Inspiron 15;Lab-Informática;Verdadeiro;307497573866577;2479;Lab-Informática;Manutenção
+Tablet;DELL;Inspiron 15;Depto-Admin;Falso;304121638591828;7806;Reitoria;Ativo
+Notebook;Samsung;Elitebook 840;Lab-Informática;Verdadeiro;189336900072161;7927;Lab-Informática;Inativo
+Tablet;Lenovo;DC3E-S;Reitoria;Falso;451858792446049;4384;Depto-Admin;Ativo
+Monitor;Lenovo;24BL550;Lab-Informática;Verdadeiro;222016309916707;4552;Lab-Informática;Manutenção
+Monitor;LG;DC3E-S;Reitoria;Verdadeiro;745624652211346;9024;Lab-Informática;Manutenção
+Tablet;AOC;24BL550;Lab-Informática;Falso;618938266513254;3740;Lab-Informática;Ativo
+Monitor;LG;Elitebook 840;Reitoria;Verdadeiro;477794030760484;9329;Reitoria;Manutenção
+Notebook;Samsung;Elitebook 840;Lab-Informática;Verdadeiro;273642715126942;6313;Reitoria;Manutenção
+Monitor;DELL;Inspiron 15;Depto-Admin;Falso;857057326812867;7563;Reitoria;Manutenção
+Notebook;Lenovo;Inspiron 15;Depto-Admin;Verdadeiro;193751888163789;5669;Lab-Informática;Inativo
+Tablet;DELL;Inspiron 15;Lab-Informática;Falso;831718972371873;4682;Lab-Informática;Inativo
+Notebook;Lenovo;Inspiron 15;Lab-Informática;Verdadeiro;370259669610614;3739;Reitoria;Manutenção
+Tablet;DELL;Elitebook 840;Reitoria;Falso;440532834126481;9576;Lab-Informática;Inativo
+Monitor;DELL;DC3E-S;Depto-Admin;Falso;932933907759702;8506;Reitoria;Inativo
+Notebook;Lenovo;Inspiron 15;Depto-Admin;Verdadeiro;940760026050486;8542;Reitoria;Ativo
+Tablet;AOC;24BL550;Depto-Admin;Verdadeiro;163768338102389;8669;Depto-Admin;Ativo
+Tablet;Lenovo;24BL550;Reitoria;Falso;228983634807080;8235;Depto-Admin;Manutenção
+Monitor;DELL;24BL550;Lab-Informática;Falso;218098544001473;6967;Lab-Informática;Manutenção
+Notebook;LG;DC3E-S;Reitoria;Falso;988237467272912;6270;Depto-Admin;Inativo
+Monitor;DELL;Inspiron 15;Lab-Informática;Verdadeiro;634330509383394;7675;Reitoria;Manutenção
+Tablet;LG;DC3E-S;Lab-Informática;Verdadeiro;540062862076860;8537;Depto-Admin;Inativo
+Monitor;LG;Inspiron 15;Depto-Admin;Falso;952994770686246;2273;Reitoria;Inativo
+Monitor;AOC;24BL550;Reitoria;Verdadeiro;498527048801946;1640;Reitoria;Manutenção
+Notebook;DELL;DC3E-S;Reitoria;Verdadeiro;654701537080538;3900;Reitoria;Ativo
+Notebook;AOC;Inspiron 15;Reitoria;Verdadeiro;406988446799001;5017;Reitoria;Inativo
+Tablet;AOC;24BL550;Lab-Informática;Verdadeiro;798824808715254;1018;Lab-Informática;Manutenção
+Monitor;DELL;DC3E-S;Depto-Admin;Falso;783355070878710;5295;Reitoria;Ativo
+Notebook;DELL;24BL550;Reitoria;Verdadeiro;552775348799524;8052;Reitoria;Manutenção
+Notebook;Samsung;Elitebook 840;Depto-Admin;Verdadeiro;679629743423036;4597;Lab-Informática;Manutenção
+Monitor;DELL;DC3E-S;Depto-Admin;Verdadeiro;962942243557865;8955;Reitoria;Ativo
+Monitor;Samsung;DC3E-S;Lab-Informática;Verdadeiro;938012768715929;3974;Depto-Admin;Ativo
+Tablet;Samsung;Elitebook 840;Lab-Informática;Verdadeiro;792706719658091;3910;Depto-Admin;Manutenção
+Tablet;LG;24BL550;Lab-Informática;Verdadeiro;997777021782787;2125;Reitoria;Inativo
+Monitor;AOC;Elitebook 840;Reitoria;Verdadeiro;107785166478373;2424;Reitoria;Ativo
+Notebook;Samsung;DC3E-S;Depto-Admin;Falso;572652795660990;3574;Lab-Informática;Manutenção
+Notebook;DELL;24BL550;Lab-Informática;Verdadeiro;237898868588002;7236;Reitoria;Inativo
+Notebook;DELL;Elitebook 840;Depto-Admin;Falso;393990321115345;2134;Reitoria;Inativo
+Monitor;LG;Elitebook 840;Depto-Admin;Verdadeiro;416894489297486;9590;Reitoria;Manutenção
+Tablet;DELL;Elitebook 840;Lab-Informática;Falso;777970229616204;7295;Lab-Informática;Manutenção
+Notebook;DELL;Elitebook 840;Lab-Informática;Falso;147758904134205;9436;Lab-Informática;Inativo
+Tablet;LG;DC3E-S;Lab-Informática;Verdadeiro;526784479111500;6254;Reitoria;Manutenção
+Tablet;DELL;Inspiron 15;Lab-Informática;Verdadeiro;734421059733346;2968;Depto-Admin;Manutenção
+Monitor;Samsung;Elitebook 840;Lab-Informática;Verdadeiro;259065610074422;9144;Reitoria;Ativo
+Tablet;LG;Inspiron 15;Reitoria;Verdadeiro;302819319852983;5656;Depto-Admin;Ativo
+Notebook;LG;Inspiron 15;Reitoria;Falso;739293698746614;5841;Reitoria;Inativo
+Monitor;DELL;DC3E-S;Depto-Admin;Verdadeiro;642845587003466;2856;Lab-Informática;Manutenção
+Monitor;AOC;24BL550;Lab-Informática;Falso;636546160807994;7397;Depto-Admin;Ativo
+Tablet;AOC;Inspiron 15;Reitoria;Verdadeiro;373644369959579;8058;Depto-Admin;Ativo
+Tablet;AOC;24BL550;Reitoria;Falso;158831530829187;9350;Lab-Informática;Ativo
+Monitor;Samsung;Elitebook 840;Reitoria;Verdadeiro;954550836665946;9294;Lab-Informática;Manutenção
+Tablet;Samsung;24BL550;Lab-Informática;Falso;344124192348331;5917;Reitoria;Ativo
+Notebook;Lenovo;Inspiron 15;Reitoria;Verdadeiro;790158002925044;6939;Reitoria;Inativo
+Monitor;Samsung;Inspiron 15;Lab-Informática;Verdadeiro;351233898116420;2087;Lab-Informática;Ativo
+Notebook;Lenovo;24BL550;Depto-Admin;Verdadeiro;625389123977818;2870;Depto-Admin;Ativo
+Notebook;LG;24BL550;Depto-Admin;Verdadeiro;201923964399895;3301;Lab-Informática;Manutenção
+Tablet;DELL;Elitebook 840;Depto-Admin;Falso;885454172216495;7746;Depto-Admin;Ativo
+Tablet;Samsung;Elitebook 840;Lab-Informática;Falso;720146354414738;9559;Reitoria;Inativo
+Monitor;Samsung;Inspiron 15;Depto-Admin;Falso;766291271113850;8402;Lab-Informática;Manutenção
+Tablet;Lenovo;Inspiron 15;Reitoria;Falso;643626180555889;1048;Reitoria;Manutenção
+Monitor;LG;DC3E-S;Reitoria;Verdadeiro;790625810004972;3218;Depto-Admin;Ativo
+Tablet;Lenovo;Elitebook 840;Reitoria;Falso;889694857562977;9692;Reitoria;Inativo
+Monitor;Samsung;DC3E-S;Depto-Admin;Falso;873969813450744;5094;Reitoria;Manutenção
+Notebook;AOC;Elitebook 840;Depto-Admin;Falso;227604607484189;5723;Lab-Informática;Manutenção
+Notebook;LG;DC3E-S;Lab-Informática;Falso;142742175334868;5650;Depto-Admin;Ativo
+Notebook;DELL;Inspiron 15;Depto-Admin;Verdadeiro;170783125989601;7396;Reitoria;Manutenção
+Notebook;LG;24BL550;Reitoria;Falso;973353103579715;8388;Depto-Admin;Inativo
+Monitor;AOC;DC3E-S;Lab-Informática;Verdadeiro;571840121556487;2275;Reitoria;Manutenção
+Tablet;DELL;24BL550;Lab-Informática;Falso;185740303904649;5321;Lab-Informática;Manutenção
+Monitor;LG;DC3E-S;Lab-Informática;Falso;870932586328334;2092;Lab-Informática;Inativo
+Notebook;Samsung;DC3E-S;Reitoria;Falso;795967568889756;6038;Reitoria;Inativo
+Monitor;DELL;24BL550;Depto-Admin;Falso;777776863154375;3808;Lab-Informática;Ativo
+Tablet;DELL;Inspiron 15;Reitoria;Falso;767286810706203;6129;Reitoria;Inativo
+Monitor;Samsung;24BL550;Reitoria;Falso;621965792013449;4733;Lab-Informática;Manutenção
+Monitor;Samsung;24BL550;Reitoria;Verdadeiro;913087198481853;9296;Reitoria;Inativo
+Tablet;Samsung;Elitebook 840;Reitoria;Falso;633786323556042;5728;Lab-Informática;Ativo
+Notebook;Lenovo;Inspiron 15;Depto-Admin;Verdadeiro;516991871871784;9734;Reitoria;Inativo
